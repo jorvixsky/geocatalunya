@@ -1,0 +1,3888 @@
+{
+  "Alt Camp (1)": [
+    {
+      "city_name": "Bràfim",
+      "city_code": 430347
+    },
+    {
+      "city_name": "Alcover",
+      "city_code": 430056
+    },
+    {
+      "city_name": "Rourell, el",
+      "city_code": 431346
+    },
+    {
+      "city_name": "Nulles",
+      "city_code": 430982
+    },
+    {
+      "city_name": "Querol",
+      "city_code": 431205
+    },
+    {
+      "city_name": "Rodonyà",
+      "city_code": 431325
+    },
+    {
+      "city_name": "Mont-ral",
+      "city_code": 430918
+    },
+    {
+      "city_name": "Milà, el",
+      "city_code": 430831
+    },
+    {
+      "city_name": "Montferri",
+      "city_code": 430897
+    },
+    {
+      "city_name": "Vallmoll",
+      "city_code": 431606
+    },
+    {
+      "city_name": "Cabra del Camp",
+      "city_code": 430363
+    },
+    {
+      "city_name": "Aiguamúrcia",
+      "city_code": 430017
+    },
+    {
+      "city_name": "Garidells, els",
+      "city_code": 430666
+    },
+    {
+      "city_name": "Puigpelat",
+      "city_code": 431191
+    },
+    {
+      "city_name": "Pont d'Armentera, el",
+      "city_code": 431135
+    },
+    {
+      "city_name": "Pla de Santa Maria, el",
+      "city_code": 431080
+    },
+    {
+      "city_name": "Vila-rodona",
+      "city_code": 431704
+    },
+    {
+      "city_name": "Riba, la",
+      "city_code": 431248
+    },
+    {
+      "city_name": "Valls",
+      "city_code": 431613
+    },
+    {
+      "city_name": "Vilabella",
+      "city_code": 431652
+    },
+    {
+      "city_name": "Figuerola del Camp",
+      "city_code": 430593
+    },
+    {
+      "city_name": "Alió",
+      "city_code": 430108
+    },
+    {
+      "city_name": "Masó, la",
+      "city_code": 430803
+    }
+  ],
+  "Alt Empordà (2)": [
+    {
+      "city_name": "Vilabertran",
+      "city_code": 172142
+    },
+    {
+      "city_name": "Riumors",
+      "city_code": 171518
+    },
+    {
+      "city_name": "Palau-saverdera",
+      "city_code": 171208
+    },
+    {
+      "city_name": "Sant Climent Sescebes",
+      "city_code": 171582
+    },
+    {
+      "city_name": "Navata",
+      "city_code": 171117
+    },
+    {
+      "city_name": "Fortià",
+      "city_code": 170741
+    },
+    {
+      "city_name": "Agullana",
+      "city_code": 170010
+    },
+    {
+      "city_name": "Pedret i Marzà",
+      "city_code": 171292
+    },
+    {
+      "city_name": "Terrades",
+      "city_code": 171962
+    },
+    {
+      "city_name": "Peralada",
+      "city_code": 171328
+    },
+    {
+      "city_name": "Cadaqués",
+      "city_code": 170329
+    },
+    {
+      "city_name": "Capmany",
+      "city_code": 170427
+    },
+    {
+      "city_name": "Garrigàs",
+      "city_code": 170754
+    },
+    {
+      "city_name": "Pont de Molins",
+      "city_code": 171352
+    },
+    {
+      "city_name": "Pontós",
+      "city_code": 171365
+    },
+    {
+      "city_name": "Sant Llorenç de la Muga",
+      "city_code": 171714
+    },
+    {
+      "city_name": "Boadella i les Escaules",
+      "city_code": 170293
+    },
+    {
+      "city_name": "Selva de Mar, la",
+      "city_code": 171886
+    },
+    {
+      "city_name": "Masarac",
+      "city_code": 171002
+    },
+    {
+      "city_name": "Figueres",
+      "city_code": 170669
+    },
+    {
+      "city_name": "Port de la Selva, el",
+      "city_code": 171404
+    },
+    {
+      "city_name": "Borrassà",
+      "city_code": 170268
+    },
+    {
+      "city_name": "Espolla",
+      "city_code": 170643
+    },
+    {
+      "city_name": "Jonquera, la",
+      "city_code": 170865
+    },
+    {
+      "city_name": "Vilamacolum",
+      "city_code": 172253
+    },
+    {
+      "city_name": "Bàscara",
+      "city_code": 170160
+    },
+    {
+      "city_name": "Vilaür",
+      "city_code": 172229
+    },
+    {
+      "city_name": "Vilafant",
+      "city_code": 172214
+    },
+    {
+      "city_name": "Castelló d'Empúries",
+      "city_code": 170470
+    },
+    {
+      "city_name": "Vilamalla",
+      "city_code": 172266
+    },
+    {
+      "city_name": "Albanyà",
+      "city_code": 170031
+    },
+    {
+      "city_name": "Escala, l'",
+      "city_code": 170622
+    },
+    {
+      "city_name": "Armentera, l'",
+      "city_code": 170118
+    },
+    {
+      "city_name": "Cantallops",
+      "city_code": 170412
+    },
+    {
+      "city_name": "Lladó",
+      "city_code": 170887
+    },
+    {
+      "city_name": "Vilajuïga",
+      "city_code": 172235
+    },
+    {
+      "city_name": "Torroella de Fluvià",
+      "city_code": 171984
+    },
+    {
+      "city_name": "Far d'Empordà, el",
+      "city_code": 170059
+    },
+    {
+      "city_name": "Darnius",
+      "city_code": 170600
+    },
+    {
+      "city_name": "Llançà",
+      "city_code": 170926
+    },
+    {
+      "city_name": "Avinyonet de Puigventós",
+      "city_code": 170123
+    },
+    {
+      "city_name": "Viladamat",
+      "city_code": 172174
+    },
+    {
+      "city_name": "Vilamaniscle",
+      "city_code": 172272
+    },
+    {
+      "city_name": "Roses",
+      "city_code": 171523
+    },
+    {
+      "city_name": "Ventalló",
+      "city_code": 172109
+    },
+    {
+      "city_name": "Pau",
+      "city_code": 171289
+    },
+    {
+      "city_name": "Santa Llogaia d'Àlguema",
+      "city_code": 171827
+    },
+    {
+      "city_name": "Palau de Santa Eulàlia",
+      "city_code": 171194
+    },
+    {
+      "city_name": "Cabanelles",
+      "city_code": 170314
+    },
+    {
+      "city_name": "Sant Mori",
+      "city_code": 171766
+    },
+    {
+      "city_name": "Ordis",
+      "city_code": 171156
+    },
+    {
+      "city_name": "Llers",
+      "city_code": 170932
+    },
+    {
+      "city_name": "Vajol, la",
+      "city_code": 170144
+    },
+    {
+      "city_name": "Cistella",
+      "city_code": 170519
+    },
+    {
+      "city_name": "Siurana",
+      "city_code": 170524
+    },
+    {
+      "city_name": "Vilanant",
+      "city_code": 172288
+    },
+    {
+      "city_name": "Colera",
+      "city_code": 170545
+    },
+    {
+      "city_name": "Sant Miquel de Fluvià",
+      "city_code": 171753
+    },
+    {
+      "city_name": "Cabanes",
+      "city_code": 170307
+    },
+    {
+      "city_name": "Rabós",
+      "city_code": 171432
+    },
+    {
+      "city_name": "Saus, Camallera i Llampaies",
+      "city_code": 171870
+    },
+    {
+      "city_name": "Maçanet de Cabrenys",
+      "city_code": 171024
+    },
+    {
+      "city_name": "Vila-sacra",
+      "city_code": 172305
+    },
+    {
+      "city_name": "Portbou",
+      "city_code": 171387
+    },
+    {
+      "city_name": "Sant Pere Pescador",
+      "city_code": 171788
+    },
+    {
+      "city_name": "Mollet de Peralada",
+      "city_code": 171061
+    },
+    {
+      "city_name": "Garriguella",
+      "city_code": 170773
+    },
+    {
+      "city_name": "Biure",
+      "city_code": 172348
+    }
+  ],
+  "Alt Penedès (3)": [
+    {
+      "city_name": "Pacs del Penedès",
+      "city_code": 81542
+    },
+    {
+      "city_name": "Torrelles de Foix",
+      "city_code": 82883
+    },
+    {
+      "city_name": "Santa Margarida i els Monjos",
+      "city_code": 82515
+    },
+    {
+      "city_name": "Vilafranca del Penedès",
+      "city_code": 83054
+    },
+    {
+      "city_name": "Gelida",
+      "city_code": 80919
+    },
+    {
+      "city_name": "Vilobí del Penedès",
+      "city_code": 83041
+    },
+    {
+      "city_name": "Cabanyes, les",
+      "city_code": 80272
+    },
+    {
+      "city_name": "Avinyonet del Penedès",
+      "city_code": 80137
+    },
+    {
+      "city_name": "Olèrdola",
+      "city_code": 81458
+    },
+    {
+      "city_name": "Torrelavit",
+      "city_code": 82877
+    },
+    {
+      "city_name": "Pontons",
+      "city_code": 81688
+    },
+    {
+      "city_name": "Sant Martí Sarroca",
+      "city_code": 82270
+    },
+    {
+      "city_name": "Castellet i la Gornal",
+      "city_code": 80581
+    },
+    {
+      "city_name": "Sant Llorenç d'Hortons",
+      "city_code": 82227
+    },
+    {
+      "city_name": "Font-rubí",
+      "city_code": 80850
+    },
+    {
+      "city_name": "Sant Quintí de Mediona",
+      "city_code": 82362
+    },
+    {
+      "city_name": "Sant Cugat Sesgarrigues",
+      "city_code": 82068
+    },
+    {
+      "city_name": "Mediona",
+      "city_code": 81228
+    },
+    {
+      "city_name": "Olesa de Bonesvalls",
+      "city_code": 81461
+    },
+    {
+      "city_name": "Subirats",
+      "city_code": 82732
+    },
+    {
+      "city_name": "Granada, la",
+      "city_code": 80945
+    },
+    {
+      "city_name": "Castellví de la Marca",
+      "city_code": 80654
+    },
+    {
+      "city_name": "Santa Fe del Penedès",
+      "city_code": 82495
+    },
+    {
+      "city_name": "Sant Sadurní d'Anoia",
+      "city_code": 82401
+    },
+    {
+      "city_name": "Pla del Penedès, el",
+      "city_code": 81640
+    },
+    {
+      "city_name": "Sant Pere de Riudebitlles",
+      "city_code": 82325
+    },
+    {
+      "city_name": "Puigdàlber",
+      "city_code": 81748
+    }
+  ],
+  "Alt Urgell (4)": [
+    {
+      "city_name": "Valls de Valira, les",
+      "city_code": 252398
+    },
+    {
+      "city_name": "Bassella",
+      "city_code": 250447
+    },
+    {
+      "city_name": "Oliana",
+      "city_code": 251497
+    },
+    {
+      "city_name": "Valls d'Aguilar, les",
+      "city_code": 259062
+    },
+    {
+      "city_name": "Cava",
+      "city_code": 250714
+    },
+    {
+      "city_name": "Estamariu",
+      "city_code": 250886
+    },
+    {
+      "city_name": "Ribera d'Urgellet",
+      "city_code": 251850
+    },
+    {
+      "city_name": "Organyà",
+      "city_code": 251556
+    },
+    {
+      "city_name": "Cabó",
+      "city_code": 250616
+    },
+    {
+      "city_name": "Coll de Nargó",
+      "city_code": 250772
+    },
+    {
+      "city_name": "Vansa i Fórnols, la",
+      "city_code": 259097
+    },
+    {
+      "city_name": "Montferrer i Castellbò",
+      "city_code": 251403
+    },
+    {
+      "city_name": "Arsèguel",
+      "city_code": 250328
+    },
+    {
+      "city_name": "Alàs i Cerc",
+      "city_code": 250058
+    },
+    {
+      "city_name": "Peramola",
+      "city_code": 251654
+    },
+    {
+      "city_name": "Josa i Tuixén",
+      "city_code": 259101
+    },
+    {
+      "city_name": "Seu d'Urgell, la",
+      "city_code": 252038
+    },
+    {
+      "city_name": "Fígols i Alinyà",
+      "city_code": 259084
+    },
+    {
+      "city_name": "Pont de Bar, el",
+      "city_code": 250306
+    }
+  ],
+  "Alta Ribagorça (5)": [
+    {
+      "city_name": "Vall de Boí, la",
+      "city_code": 250432
+    },
+    {
+      "city_name": "Pont de Suert, el",
+      "city_code": 251734
+    },
+    {
+      "city_name": "Vilaller",
+      "city_code": 252458
+    }
+  ],
+  "Altres/Diversos (99)": [
+    {
+      "city_name": "Altres/Diversos",
+      "city_code": 999999
+    }
+  ],
+  "Anoia (6)": [
+    {
+      "city_name": "Pobla de Claramunt, la",
+      "city_code": 81653
+    },
+    {
+      "city_name": "Sant Pere Sallavinera",
+      "city_code": 81897
+    },
+    {
+      "city_name": "Capellades",
+      "city_code": 80446
+    },
+    {
+      "city_name": "Hostalets de Pierola, els",
+      "city_code": 81629
+    },
+    {
+      "city_name": "Montmaneu",
+      "city_code": 81332
+    },
+    {
+      "city_name": "Carme",
+      "city_code": 80484
+    },
+    {
+      "city_name": "Veciana",
+      "city_code": 82975
+    },
+    {
+      "city_name": "Argençola",
+      "city_code": 80082
+    },
+    {
+      "city_name": "Castellfollit de Riubregós",
+      "city_code": 80608
+    },
+    {
+      "city_name": "Pujalt",
+      "city_code": 81764
+    },
+    {
+      "city_name": "Masquefa",
+      "city_code": 81192
+    },
+    {
+      "city_name": "Prats de Rei, els",
+      "city_code": 81705
+    },
+    {
+      "city_name": "Sant Martí de Tous",
+      "city_code": 82264
+    },
+    {
+      "city_name": "Bellprat",
+      "city_code": 80214
+    },
+    {
+      "city_name": "Piera",
+      "city_code": 81614
+    },
+    {
+      "city_name": "Santa Margarida de Montbui",
+      "city_code": 82508
+    },
+    {
+      "city_name": "Copons",
+      "city_code": 80713
+    },
+    {
+      "city_name": "Jorba",
+      "city_code": 81038
+    },
+    {
+      "city_name": "Bruc, el",
+      "city_code": 80253
+    },
+    {
+      "city_name": "Castellolí",
+      "city_code": 80636
+    },
+    {
+      "city_name": "Vilanova del Camí",
+      "city_code": 83020
+    },
+    {
+      "city_name": "Llacuna, la",
+      "city_code": 81043
+    },
+    {
+      "city_name": "Òdena",
+      "city_code": 81430
+    },
+    {
+      "city_name": "Sant Martí Sesgueioles",
+      "city_code": 82286
+    },
+    {
+      "city_name": "Rubió",
+      "city_code": 81859
+    },
+    {
+      "city_name": "Cabrera d'Anoia",
+      "city_code": 80288
+    },
+    {
+      "city_name": "Igualada",
+      "city_code": 81022
+    },
+    {
+      "city_name": "Calaf",
+      "city_code": 80312
+    },
+    {
+      "city_name": "Vallbona d'Anoia",
+      "city_code": 82922
+    },
+    {
+      "city_name": "Orpí",
+      "city_code": 81521
+    },
+    {
+      "city_name": "Torre de Claramunt, la",
+      "city_code": 82861
+    },
+    {
+      "city_name": "Calonge de Segarra",
+      "city_code": 80364
+    },
+    {
+      "city_name": "Santa Maria de Miralles",
+      "city_code": 82573
+    }
+  ],
+  "Aran (39)": [
+    {
+      "city_name": "Vilamòs",
+      "city_code": 252477
+    },
+    {
+      "city_name": "Canejan",
+      "city_code": 250637
+    },
+    {
+      "city_name": "Les",
+      "city_code": 251214
+    },
+    {
+      "city_name": "Bossòst",
+      "city_code": 250595
+    },
+    {
+      "city_name": "Bòrdes, Es",
+      "city_code": 250576
+    },
+    {
+      "city_name": "Vielha e Mijaran",
+      "city_code": 252430
+    },
+    {
+      "city_name": "Arres",
+      "city_code": 250313
+    },
+    {
+      "city_name": "Bausen",
+      "city_code": 250450
+    },
+    {
+      "city_name": "Naut Aran",
+      "city_code": 250254
+    }
+  ],
+  "Bages (7)": [
+    {
+      "city_name": "Navarcles",
+      "city_code": 81402
+    },
+    {
+      "city_name": "Santpedor",
+      "city_code": 81923
+    },
+    {
+      "city_name": "Sant Feliu Sasserra",
+      "city_code": 82129
+    },
+    {
+      "city_name": "Balsareny",
+      "city_code": 80180
+    },
+    {
+      "city_name": "Navàs",
+      "city_code": 81419
+    },
+    {
+      "city_name": "Sant Vicenç de Castellet",
+      "city_code": 82628
+    },
+    {
+      "city_name": "Sant Mateu de Bages",
+      "city_code": 82299
+    },
+    {
+      "city_name": "Súria",
+      "city_code": 82747
+    },
+    {
+      "city_name": "Sant Joan de Vilatorrada",
+      "city_code": 82188
+    },
+    {
+      "city_name": "Cardona",
+      "city_code": 80478
+    },
+    {
+      "city_name": "Mura",
+      "city_code": 81398
+    },
+    {
+      "city_name": "Marganell",
+      "city_code": 82423
+    },
+    {
+      "city_name": "Sant Salvador de Guardiola",
+      "city_code": 80983
+    },
+    {
+      "city_name": "Gaià",
+      "city_code": 80902
+    },
+    {
+      "city_name": "Rajadell",
+      "city_code": 81786
+    },
+    {
+      "city_name": "Pont de Vilomara i Rocafort, el",
+      "city_code": 81825
+    },
+    {
+      "city_name": "Castellgalí",
+      "city_code": 80615
+    },
+    {
+      "city_name": "Fonollosa",
+      "city_code": 80847
+    },
+    {
+      "city_name": "Callús",
+      "city_code": 80386
+    },
+    {
+      "city_name": "Sant Fruitós de Bages",
+      "city_code": 82135
+    },
+    {
+      "city_name": "Sallent",
+      "city_code": 81918
+    },
+    {
+      "city_name": "Castellnou de Bages",
+      "city_code": 80620
+    },
+    {
+      "city_name": "Manresa",
+      "city_code": 81136
+    },
+    {
+      "city_name": "Castellbell i el Vilar",
+      "city_code": 80538
+    },
+    {
+      "city_name": "Avinyó",
+      "city_code": 80121
+    },
+    {
+      "city_name": "Castellfollit del Boix",
+      "city_code": 80594
+    },
+    {
+      "city_name": "Monistrol de Montserrat",
+      "city_code": 81271
+    },
+    {
+      "city_name": "Aguilar de Segarra",
+      "city_code": 80023
+    },
+    {
+      "city_name": "Talamanca",
+      "city_code": 82779
+    },
+    {
+      "city_name": "Artés",
+      "city_code": 80109
+    }
+  ],
+  "Baix Camp (8)": [
+    {
+      "city_name": "Riudoms",
+      "city_code": 431299
+    },
+    {
+      "city_name": "Castellvell del Camp",
+      "city_code": 430424
+    },
+    {
+      "city_name": "Arbolí",
+      "city_code": 430154
+    },
+    {
+      "city_name": "Febró, la",
+      "city_code": 430574
+    },
+    {
+      "city_name": "Vilanova d'Escornalbou",
+      "city_code": 431671
+    },
+    {
+      "city_name": "Colldejou",
+      "city_code": 430458
+    },
+    {
+      "city_name": "Riudecanyes",
+      "city_code": 431270
+    },
+    {
+      "city_name": "Vandellòs i l'Hospitalet de l'Infant",
+      "city_code": 431628
+    },
+    {
+      "city_name": "Prades",
+      "city_code": 431166
+    },
+    {
+      "city_name": "Reus",
+      "city_code": 431233
+    },
+    {
+      "city_name": "Vilaplana",
+      "city_code": 431690
+    },
+    {
+      "city_name": "Alforja",
+      "city_code": 430094
+    },
+    {
+      "city_name": "Maspujols",
+      "city_code": 430810
+    },
+    {
+      "city_name": "Aleixar, l'",
+      "city_code": 430075
+    },
+    {
+      "city_name": "Riudecols",
+      "city_code": 431286
+    },
+    {
+      "city_name": "Cambrils",
+      "city_code": 430385
+    },
+    {
+      "city_name": "Vinyols i els Arcs",
+      "city_code": 431785
+    },
+    {
+      "city_name": "Albiol, l'",
+      "city_code": 430038
+    },
+    {
+      "city_name": "Duesaigües",
+      "city_code": 430537
+    },
+    {
+      "city_name": "Capafonts",
+      "city_code": 430398
+    },
+    {
+      "city_name": "Montbrió del Camp",
+      "city_code": 430884
+    },
+    {
+      "city_name": "Pratdip",
+      "city_code": 431188
+    },
+    {
+      "city_name": "Selva del Camp, la",
+      "city_code": 431457
+    },
+    {
+      "city_name": "Almoster",
+      "city_code": 430115
+    },
+    {
+      "city_name": "Botarell",
+      "city_code": 430332
+    },
+    {
+      "city_name": "Borges del Camp, les",
+      "city_code": 430311
+    },
+    {
+      "city_name": "Argentera, l'",
+      "city_code": 430173
+    },
+    {
+      "city_name": "Mont-roig del Camp",
+      "city_code": 430923
+    }
+  ],
+  "Baix Ebre (9)": [
+    {
+      "city_name": "Aldea, l'",
+      "city_code": 439044
+    },
+    {
+      "city_name": "Deltebre",
+      "city_code": 439018
+    },
+    {
+      "city_name": "Alfara de Carles",
+      "city_code": 430081
+    },
+    {
+      "city_name": "Tortosa",
+      "city_code": 431554
+    },
+    {
+      "city_name": "Camarles",
+      "city_code": 439039
+    },
+    {
+      "city_name": "Tivenys",
+      "city_code": 431495
+    },
+    {
+      "city_name": "Perelló, el",
+      "city_code": 431042
+    },
+    {
+      "city_name": "Ametlla de Mar, l'",
+      "city_code": 430136
+    },
+    {
+      "city_name": "Ampolla, l'",
+      "city_code": 439060
+    },
+    {
+      "city_name": "Aldover",
+      "city_code": 430069
+    },
+    {
+      "city_name": "Xerta",
+      "city_code": 430521
+    },
+    {
+      "city_name": "Roquetes",
+      "city_code": 431331
+    },
+    {
+      "city_name": "Paüls",
+      "city_code": 431021
+    },
+    {
+      "city_name": "Benifallet",
+      "city_code": 430252
+    }
+  ],
+  "Baix Empordà (10)": [
+    {
+      "city_name": "Jafre",
+      "city_code": 170852
+    },
+    {
+      "city_name": "Corçà",
+      "city_code": 170577
+    },
+    {
+      "city_name": "Mont-ras",
+      "city_code": 171100
+    },
+    {
+      "city_name": "Vall-llobrega",
+      "city_code": 172095
+    },
+    {
+      "city_name": "Verges",
+      "city_code": 172116
+    },
+    {
+      "city_name": "Fontanilles",
+      "city_code": 170708
+    },
+    {
+      "city_name": "Ullastret",
+      "city_code": 172057
+    },
+    {
+      "city_name": "Calonge i Sant Antoni",
+      "city_code": 170340
+    },
+    {
+      "city_name": "Garrigoles",
+      "city_code": 170767
+    },
+    {
+      "city_name": "Bisbal d'Empordà, la",
+      "city_code": 170221
+    },
+    {
+      "city_name": "Palamós",
+      "city_code": 171181
+    },
+    {
+      "city_name": "Parlavà",
+      "city_code": 171267
+    },
+    {
+      "city_name": "Begur",
+      "city_code": 170139
+    },
+    {
+      "city_name": "Serra de Daró",
+      "city_code": 171910
+    },
+    {
+      "city_name": "Sant Feliu de Guíxols",
+      "city_code": 171609
+    },
+    {
+      "city_name": "Palafrugell",
+      "city_code": 171175
+    },
+    {
+      "city_name": "Ultramort",
+      "city_code": 172039
+    },
+    {
+      "city_name": "Foixà",
+      "city_code": 170681
+    },
+    {
+      "city_name": "Rupià",
+      "city_code": 171539
+    },
+    {
+      "city_name": "Tallada d'Empordà, la",
+      "city_code": 171959
+    },
+    {
+      "city_name": "Pera, la",
+      "city_code": 171306
+    },
+    {
+      "city_name": "Colomers",
+      "city_code": 170558
+    },
+    {
+      "city_name": "Ullà",
+      "city_code": 172044
+    },
+    {
+      "city_name": "Cruïlles, Monells i Sant Sadurní de l'Heura",
+      "city_code": 179011
+    },
+    {
+      "city_name": "Vilopriu",
+      "city_code": 172327
+    },
+    {
+      "city_name": "Pals",
+      "city_code": 171241
+    },
+    {
+      "city_name": "Torrent",
+      "city_code": 171978
+    },
+    {
+      "city_name": "Santa Cristina d'Aro",
+      "city_code": 171812
+    },
+    {
+      "city_name": "Torroella de Montgrí",
+      "city_code": 171997
+    },
+    {
+      "city_name": "Palau-sator",
+      "city_code": 171215
+    },
+    {
+      "city_name": "Gualta",
+      "city_code": 170813
+    },
+    {
+      "city_name": "Castell d'Aro, Platja d'Aro i s'Agaró",
+      "city_code": 170486
+    },
+    {
+      "city_name": "Albons",
+      "city_code": 170046
+    },
+    {
+      "city_name": "Forallac",
+      "city_code": 179026
+    },
+    {
+      "city_name": "Regencós",
+      "city_code": 171447
+    },
+    {
+      "city_name": "Bellcaire d'Empordà",
+      "city_code": 170182
+    }
+  ],
+  "Baix Llobregat (11)": [
+    {
+      "city_name": "Molins de Rei",
+      "city_code": 81234
+    },
+    {
+      "city_name": "Sant Andreu de la Barca",
+      "city_code": 81960
+    },
+    {
+      "city_name": "Esplugues de Llobregat",
+      "city_code": 80771
+    },
+    {
+      "city_name": "Abrera",
+      "city_code": 80018
+    },
+    {
+      "city_name": "Esparreguera",
+      "city_code": 80765
+    },
+    {
+      "city_name": "Sant Boi de Llobregat",
+      "city_code": 82009
+    },
+    {
+      "city_name": "Sant Climent de Llobregat",
+      "city_code": 82042
+    },
+    {
+      "city_name": "Palma de Cervelló, la",
+      "city_code": 89058
+    },
+    {
+      "city_name": "Papiol, el",
+      "city_code": 81580
+    },
+    {
+      "city_name": "Begues",
+      "city_code": 80207
+    },
+    {
+      "city_name": "Sant Just Desvern",
+      "city_code": 82212
+    },
+    {
+      "city_name": "Collbató",
+      "city_code": 80692
+    },
+    {
+      "city_name": "Sant Joan Despí",
+      "city_code": 82172
+    },
+    {
+      "city_name": "Martorell",
+      "city_code": 81141
+    },
+    {
+      "city_name": "Castellví de Rosanes",
+      "city_code": 80667
+    },
+    {
+      "city_name": "Sant Vicenç dels Horts",
+      "city_code": 82634
+    },
+    {
+      "city_name": "Gavà",
+      "city_code": 80898
+    },
+    {
+      "city_name": "Pallejà",
+      "city_code": 81574
+    },
+    {
+      "city_name": "Sant Feliu de Llobregat",
+      "city_code": 82114
+    },
+    {
+      "city_name": "Prat de Llobregat, el",
+      "city_code": 81691
+    },
+    {
+      "city_name": "Vallirana",
+      "city_code": 82956
+    },
+    {
+      "city_name": "Cornellà de Llobregat",
+      "city_code": 80734
+    },
+    {
+      "city_name": "Castelldefels",
+      "city_code": 80569
+    },
+    {
+      "city_name": "Sant Esteve Sesrovires",
+      "city_code": 82080
+    },
+    {
+      "city_name": "Corbera de Llobregat",
+      "city_code": 80728
+    },
+    {
+      "city_name": "Viladecans",
+      "city_code": 83015
+    },
+    {
+      "city_name": "Torrelles de Llobregat",
+      "city_code": 82896
+    },
+    {
+      "city_name": "Santa Coloma de Cervelló",
+      "city_code": 82444
+    },
+    {
+      "city_name": "Cervelló",
+      "city_code": 80689
+    },
+    {
+      "city_name": "Olesa de Montserrat",
+      "city_code": 81477
+    }
+  ],
+  "Baix Penedès (12)": [
+    {
+      "city_name": "Bisbal del Penedès, la",
+      "city_code": 430287
+    },
+    {
+      "city_name": "Llorenç del Penedès",
+      "city_code": 430748
+    },
+    {
+      "city_name": "Banyeres del Penedès",
+      "city_code": 430206
+    },
+    {
+      "city_name": "Montmell, el",
+      "city_code": 430901
+    },
+    {
+      "city_name": "Masllorenç",
+      "city_code": 430799
+    },
+    {
+      "city_name": "Sant Jaume dels Domenys",
+      "city_code": 431378
+    },
+    {
+      "city_name": "Albinyana",
+      "city_code": 430022
+    },
+    {
+      "city_name": "Santa Oliva",
+      "city_code": 431401
+    },
+    {
+      "city_name": "Calafell",
+      "city_code": 430379
+    },
+    {
+      "city_name": "Bonastre",
+      "city_code": 430304
+    },
+    {
+      "city_name": "Cunit",
+      "city_code": 430516
+    },
+    {
+      "city_name": "Arboç, l'",
+      "city_code": 430167
+    },
+    {
+      "city_name": "Bellvei",
+      "city_code": 430249
+    },
+    {
+      "city_name": "Vendrell, el",
+      "city_code": 431634
+    }
+  ],
+  "Barcelonès (13)": [
+    {
+      "city_name": "Badalona",
+      "city_code": 80155
+    },
+    {
+      "city_name": "Santa Coloma de Gramenet",
+      "city_code": 82457
+    },
+    {
+      "city_name": "Hospitalet de Llobregat, l'",
+      "city_code": 81017
+    },
+    {
+      "city_name": "Sant Adrià de Besòs",
+      "city_code": 81944
+    },
+    {
+      "city_name": "Barcelona",
+      "city_code": 80193
+    }
+  ],
+  "Berguedà (14)": [
+    {
+      "city_name": "Guardiola de Berguedà",
+      "city_code": 80996
+    },
+    {
+      "city_name": "Viver i Serrateix",
+      "city_code": 83089
+    },
+    {
+      "city_name": "Castellar de n'Hug",
+      "city_code": 80522
+    },
+    {
+      "city_name": "Saldes",
+      "city_code": 81901
+    },
+    {
+      "city_name": "Sant Jaume de Frontanyà",
+      "city_code": 82166
+    },
+    {
+      "city_name": "Vallcebre",
+      "city_code": 82938
+    },
+    {
+      "city_name": "Borredà",
+      "city_code": 80240
+    },
+    {
+      "city_name": "Avià",
+      "city_code": 80116
+    },
+    {
+      "city_name": "Montclar",
+      "city_code": 81304
+    },
+    {
+      "city_name": "Vilada",
+      "city_code": 82994
+    },
+    {
+      "city_name": "Casserres",
+      "city_code": 80497
+    },
+    {
+      "city_name": "Castellar del Riu",
+      "city_code": 80500
+    },
+    {
+      "city_name": "Sant Julià de Cerdanyola",
+      "city_code": 89030
+    },
+    {
+      "city_name": "Olvan",
+      "city_code": 81445
+    },
+    {
+      "city_name": "Cercs",
+      "city_code": 82687
+    },
+    {
+      "city_name": "Castell de l'Areny",
+      "city_code": 80575
+    },
+    {
+      "city_name": "Fígols",
+      "city_code": 80804
+    },
+    {
+      "city_name": "Gósol",
+      "city_code": 251001
+    },
+    {
+      "city_name": "Berga",
+      "city_code": 80229
+    },
+    {
+      "city_name": "Quar, la",
+      "city_code": 81770
+    },
+    {
+      "city_name": "Nou de Berguedà, la",
+      "city_code": 81424
+    },
+    {
+      "city_name": "Gironella",
+      "city_code": 80924
+    },
+    {
+      "city_name": "Bagà",
+      "city_code": 80168
+    },
+    {
+      "city_name": "Santa Maria de Merlès",
+      "city_code": 82554
+    },
+    {
+      "city_name": "Gisclareny",
+      "city_code": 80930
+    },
+    {
+      "city_name": "Puig-reig",
+      "city_code": 81751
+    },
+    {
+      "city_name": "Pobla de Lillet, la",
+      "city_code": 81666
+    },
+    {
+      "city_name": "Capolat",
+      "city_code": 80459
+    },
+    {
+      "city_name": "Espunyola, l'",
+      "city_code": 80787
+    },
+    {
+      "city_name": "Sagàs",
+      "city_code": 81884
+    },
+    {
+      "city_name": "Montmajor",
+      "city_code": 81326
+    }
+  ],
+  "Cerdanya (15)": [
+    {
+      "city_name": "Alp",
+      "city_code": 170062
+    },
+    {
+      "city_name": "Puigcerdà",
+      "city_code": 171411
+    },
+    {
+      "city_name": "Montellà i Martinet",
+      "city_code": 251399
+    },
+    {
+      "city_name": "Das",
+      "city_code": 170617
+    },
+    {
+      "city_name": "Guils de Cerdanya",
+      "city_code": 170828
+    },
+    {
+      "city_name": "Llívia",
+      "city_code": 170947
+    },
+    {
+      "city_name": "Isòvol",
+      "city_code": 170849
+    },
+    {
+      "city_name": "Urús",
+      "city_code": 172060
+    },
+    {
+      "city_name": "Prullans",
+      "city_code": 251790
+    },
+    {
+      "city_name": "Riu de Cerdanya",
+      "city_code": 259139
+    },
+    {
+      "city_name": "Prats i Sansor",
+      "city_code": 251752
+    },
+    {
+      "city_name": "Lles de Cerdanya",
+      "city_code": 251272
+    },
+    {
+      "city_name": "Bellver de Cerdanya",
+      "city_code": 250518
+    },
+    {
+      "city_name": "Meranges",
+      "city_code": 170998
+    },
+    {
+      "city_name": "Fontanals de Cerdanya",
+      "city_code": 170694
+    },
+    {
+      "city_name": "Ger",
+      "city_code": 170789
+    },
+    {
+      "city_name": "Bolvir",
+      "city_code": 170242
+    }
+  ],
+  "Conca de Barberà (16)": [
+    {
+      "city_name": "Vimbodí i Poblet",
+      "city_code": 431763
+    },
+    {
+      "city_name": "Barberà de la Conca",
+      "city_code": 430213
+    },
+    {
+      "city_name": "Montblanc",
+      "city_code": 430862
+    },
+    {
+      "city_name": "Vilaverd",
+      "city_code": 431726
+    },
+    {
+      "city_name": "Piles, les",
+      "city_code": 431055
+    },
+    {
+      "city_name": "Vallfogona de Riucorb",
+      "city_code": 431592
+    },
+    {
+      "city_name": "Solivella",
+      "city_code": 431476
+    },
+    {
+      "city_name": "Conesa",
+      "city_code": 430461
+    },
+    {
+      "city_name": "Pira",
+      "city_code": 431074
+    },
+    {
+      "city_name": "Passanant i Belltall",
+      "city_code": 431016
+    },
+    {
+      "city_name": "Senan",
+      "city_code": 431460
+    },
+    {
+      "city_name": "Santa Coloma de Queralt",
+      "city_code": 431397
+    },
+    {
+      "city_name": "Vilanova de Prades",
+      "city_code": 431687
+    },
+    {
+      "city_name": "Rocafort de Queralt",
+      "city_code": 431303
+    },
+    {
+      "city_name": "Savallà del Comtat",
+      "city_code": 431439
+    },
+    {
+      "city_name": "Forès",
+      "city_code": 430614
+    },
+    {
+      "city_name": "Blancafort",
+      "city_code": 430290
+    },
+    {
+      "city_name": "Pontils",
+      "city_code": 431418
+    },
+    {
+      "city_name": "Sarral",
+      "city_code": 431423
+    },
+    {
+      "city_name": "Vallclara",
+      "city_code": 431589
+    },
+    {
+      "city_name": "Espluga de Francolí, l'",
+      "city_code": 430542
+    },
+    {
+      "city_name": "Llorac",
+      "city_code": 430733
+    }
+  ],
+  "Garraf (17)": [
+    {
+      "city_name": "Sant Pere de Ribes",
+      "city_code": 82310
+    },
+    {
+      "city_name": "Sitges",
+      "city_code": 82704
+    },
+    {
+      "city_name": "Vilanova i la Geltrú",
+      "city_code": 83073
+    },
+    {
+      "city_name": "Cubelles",
+      "city_code": 80749
+    },
+    {
+      "city_name": "Canyelles",
+      "city_code": 80431
+    },
+    {
+      "city_name": "Olivella",
+      "city_code": 81483
+    }
+  ],
+  "Garrigues (18)": [
+    {
+      "city_name": "Cogul, el",
+      "city_code": 250766
+    },
+    {
+      "city_name": "Castelldans",
+      "city_code": 250674
+    },
+    {
+      "city_name": "Omellons, els",
+      "city_code": 251538
+    },
+    {
+      "city_name": "Floresta, la",
+      "city_code": 250925
+    },
+    {
+      "city_name": "Fulleda",
+      "city_code": 250978
+    },
+    {
+      "city_name": "Vinaixa",
+      "city_code": 252555
+    },
+    {
+      "city_name": "Torms, els",
+      "city_code": 252249
+    },
+    {
+      "city_name": "Soleràs, el",
+      "city_code": 252069
+    },
+    {
+      "city_name": "Bovera",
+      "city_code": 250560
+    },
+    {
+      "city_name": "Cervià de les Garrigues",
+      "city_code": 250735
+    },
+    {
+      "city_name": "Puiggròs",
+      "city_code": 251804
+    },
+    {
+      "city_name": "Pobla de Cérvoles, la",
+      "city_code": 251692
+    },
+    {
+      "city_name": "Juneda",
+      "city_code": 251193
+    },
+    {
+      "city_name": "Albagés, l'",
+      "city_code": 250061
+    },
+    {
+      "city_name": "Arbeca",
+      "city_code": 250292
+    },
+    {
+      "city_name": "Borges Blanques, les",
+      "city_code": 250582
+    },
+    {
+      "city_name": "Espluga Calba, l'",
+      "city_code": 250812
+    },
+    {
+      "city_name": "Granyena de les Garrigues",
+      "city_code": 251057
+    },
+    {
+      "city_name": "Albi, l'",
+      "city_code": 250096
+    },
+    {
+      "city_name": "Juncosa",
+      "city_code": 251180
+    },
+    {
+      "city_name": "Tarrés",
+      "city_code": 252189
+    },
+    {
+      "city_name": "Bellaguarda",
+      "city_code": 251706
+    },
+    {
+      "city_name": "Granadella, la",
+      "city_code": 251018
+    },
+    {
+      "city_name": "Vilosell, el",
+      "city_code": 252537
+    }
+  ],
+  "Garrotxa (19)": [
+    {
+      "city_name": "Tortellà",
+      "city_code": 172001
+    },
+    {
+      "city_name": "Planes d'Hostoles, les",
+      "city_code": 171334
+    },
+    {
+      "city_name": "Montagut i Oix",
+      "city_code": 171096
+    },
+    {
+      "city_name": "Beuda",
+      "city_code": 170216
+    },
+    {
+      "city_name": "Argelaguer",
+      "city_code": 170101
+    },
+    {
+      "city_name": "Sant Ferriol",
+      "city_code": 171621
+    },
+    {
+      "city_name": "Maià de Montcal",
+      "city_code": 170985
+    },
+    {
+      "city_name": "Sales de Llierca",
+      "city_code": 171544
+    },
+    {
+      "city_name": "Castellfollit de la Roca",
+      "city_code": 170464
+    },
+    {
+      "city_name": "Mieres",
+      "city_code": 171058
+    },
+    {
+      "city_name": "Vall d'en Bas, la",
+      "city_code": 172076
+    },
+    {
+      "city_name": "Sant Joan les Fonts",
+      "city_code": 171851
+    },
+    {
+      "city_name": "Sant Aniol de Finestres",
+      "city_code": 171833
+    },
+    {
+      "city_name": "Preses, les",
+      "city_code": 171390
+    },
+    {
+      "city_name": "Olot",
+      "city_code": 171143
+    },
+    {
+      "city_name": "Sant Jaume de Llierca",
+      "city_code": 171655
+    },
+    {
+      "city_name": "Santa Pau",
+      "city_code": 171848
+    },
+    {
+      "city_name": "Besalú",
+      "city_code": 170195
+    },
+    {
+      "city_name": "Riudaura",
+      "city_code": 171498
+    },
+    {
+      "city_name": "Vall de Bianya, la",
+      "city_code": 172082
+    },
+    {
+      "city_name": "Sant Feliu de Pallerols",
+      "city_code": 171616
+    }
+  ],
+  "Gironès (20)": [
+    {
+      "city_name": "Vilablareix",
+      "city_code": 172155
+    },
+    {
+      "city_name": "Bescanó",
+      "city_code": 170209
+    },
+    {
+      "city_name": "Llagostera",
+      "city_code": 170890
+    },
+    {
+      "city_name": "Sant Julià de Ramis",
+      "city_code": 171693
+    },
+    {
+      "city_name": "Salt",
+      "city_code": 171557
+    },
+    {
+      "city_name": "Sant Joan de Mollet",
+      "city_code": 171680
+    },
+    {
+      "city_name": "Fornells de la Selva",
+      "city_code": 170736
+    },
+    {
+      "city_name": "Llambilles",
+      "city_code": 170904
+    },
+    {
+      "city_name": "Girona",
+      "city_code": 170792
+    },
+    {
+      "city_name": "Bordils",
+      "city_code": 170255
+    },
+    {
+      "city_name": "Sant Andreu Salou",
+      "city_code": 171576
+    },
+    {
+      "city_name": "Cassà de la Selva",
+      "city_code": 170448
+    },
+    {
+      "city_name": "Madremanya",
+      "city_code": 170979
+    },
+    {
+      "city_name": "Flaçà",
+      "city_code": 170675
+    },
+    {
+      "city_name": "Sant Martí Vell",
+      "city_code": 171735
+    },
+    {
+      "city_name": "Sarrià de Ter",
+      "city_code": 171864
+    },
+    {
+      "city_name": "Campllong",
+      "city_code": 170388
+    },
+    {
+      "city_name": "Sant Gregori",
+      "city_code": 171637
+    },
+    {
+      "city_name": "Cervià de Ter",
+      "city_code": 170502
+    },
+    {
+      "city_name": "Celrà",
+      "city_code": 170499
+    },
+    {
+      "city_name": "Quart",
+      "city_code": 171426
+    },
+    {
+      "city_name": "Canet d'Adri",
+      "city_code": 170405
+    },
+    {
+      "city_name": "Viladasens",
+      "city_code": 172168
+    },
+    {
+      "city_name": "Aiguaviva",
+      "city_code": 170025
+    },
+    {
+      "city_name": "Sant Jordi Desvalls",
+      "city_code": 171668
+    },
+    {
+      "city_name": "Juià",
+      "city_code": 170871
+    },
+    {
+      "city_name": "Sant Martí de Llémena",
+      "city_code": 171729
+    }
+  ],
+  "Lluçanès (43)": [
+    {
+      "city_name": "Prats de Lluçanès",
+      "city_code": 81712
+    },
+    {
+      "city_name": "Sant Martí d'Albars",
+      "city_code": 82251
+    },
+    {
+      "city_name": "Sobremunt",
+      "city_code": 82711
+    },
+    {
+      "city_name": "Lluçà",
+      "city_code": 81094
+    },
+    {
+      "city_name": "Oristà",
+      "city_code": 81516
+    },
+    {
+      "city_name": "Alpens",
+      "city_code": 80044
+    },
+    {
+      "city_name": "Perafita",
+      "city_code": 81607
+    },
+    {
+      "city_name": "Olost",
+      "city_code": 81496
+    }
+  ],
+  "Maresme (21)": [
+    {
+      "city_name": "Premià de Dalt",
+      "city_code": 82303
+    },
+    {
+      "city_name": "Masnou, el",
+      "city_code": 81189
+    },
+    {
+      "city_name": "Cabrils",
+      "city_code": 80305
+    },
+    {
+      "city_name": "Òrrius",
+      "city_code": 81537
+    },
+    {
+      "city_name": "Palafolls",
+      "city_code": 81555
+    },
+    {
+      "city_name": "Santa Susanna",
+      "city_code": 82613
+    },
+    {
+      "city_name": "Alella",
+      "city_code": 80039
+    },
+    {
+      "city_name": "Calella",
+      "city_code": 80351
+    },
+    {
+      "city_name": "Sant Pol de Mar",
+      "city_code": 82359
+    },
+    {
+      "city_name": "Sant Iscle de Vallalta",
+      "city_code": 81939
+    },
+    {
+      "city_name": "Mataró",
+      "city_code": 81213
+    },
+    {
+      "city_name": "Canet de Mar",
+      "city_code": 80403
+    },
+    {
+      "city_name": "Arenys de Munt",
+      "city_code": 80076
+    },
+    {
+      "city_name": "Caldes d'Estrac",
+      "city_code": 80327
+    },
+    {
+      "city_name": "Malgrat de Mar",
+      "city_code": 81108
+    },
+    {
+      "city_name": "Tiana",
+      "city_code": 82824
+    },
+    {
+      "city_name": "Vilassar de Mar",
+      "city_code": 82191
+    },
+    {
+      "city_name": "Sant Cebrià de Vallalta",
+      "city_code": 82037
+    },
+    {
+      "city_name": "Teià",
+      "city_code": 82819
+    },
+    {
+      "city_name": "Montgat",
+      "city_code": 81265
+    },
+    {
+      "city_name": "Tordera",
+      "city_code": 82845
+    },
+    {
+      "city_name": "Argentona",
+      "city_code": 80095
+    },
+    {
+      "city_name": "Sant Andreu de Llavaneres",
+      "city_code": 81976
+    },
+    {
+      "city_name": "Vilassar de Dalt",
+      "city_code": 82140
+    },
+    {
+      "city_name": "Premià de Mar",
+      "city_code": 81727
+    },
+    {
+      "city_name": "Arenys de Mar",
+      "city_code": 80060
+    },
+    {
+      "city_name": "Cabrera de Mar",
+      "city_code": 80291
+    },
+    {
+      "city_name": "Dosrius",
+      "city_code": 80752
+    },
+    {
+      "city_name": "Sant Vicenç de Montalt",
+      "city_code": 82649
+    },
+    {
+      "city_name": "Pineda de Mar",
+      "city_code": 81635
+    }
+  ],
+  "Moianès (42)": [
+    {
+      "city_name": "Estany, l'",
+      "city_code": 80790
+    },
+    {
+      "city_name": "Castellterçol",
+      "city_code": 80641
+    },
+    {
+      "city_name": "Castellcir",
+      "city_code": 80556
+    },
+    {
+      "city_name": "Sant Quirze Safaja",
+      "city_code": 82397
+    },
+    {
+      "city_name": "Santa Maria d'Oló",
+      "city_code": 82589
+    },
+    {
+      "city_name": "Calders",
+      "city_code": 80348
+    },
+    {
+      "city_name": "Moià",
+      "city_code": 81385
+    },
+    {
+      "city_name": "Granera",
+      "city_code": 80958
+    },
+    {
+      "city_name": "Monistrol de Calders",
+      "city_code": 81287
+    },
+    {
+      "city_name": "Collsuspina",
+      "city_code": 80706
+    }
+  ],
+  "Montsià (22)": [
+    {
+      "city_name": "Masdenverge",
+      "city_code": 430786
+    },
+    {
+      "city_name": "Alcanar",
+      "city_code": 430043
+    },
+    {
+      "city_name": "Santa Bàrbara",
+      "city_code": 431384
+    },
+    {
+      "city_name": "Ràpita, la",
+      "city_code": 431362
+    },
+    {
+      "city_name": "Sénia, la",
+      "city_code": 430445
+    },
+    {
+      "city_name": "Sant Jaume d'Enveja",
+      "city_code": 439023
+    },
+    {
+      "city_name": "Freginals",
+      "city_code": 430629
+    },
+    {
+      "city_name": "Galera, la",
+      "city_code": 430635
+    },
+    {
+      "city_name": "Amposta",
+      "city_code": 430141
+    },
+    {
+      "city_name": "Ulldecona",
+      "city_code": 431567
+    },
+    {
+      "city_name": "Mas de Barberans",
+      "city_code": 430770
+    },
+    {
+      "city_name": "Godall",
+      "city_code": 430688
+    }
+  ],
+  "No consta (98)": [
+    {
+      "city_name": "No consta",
+      "city_code": 999998
+    }
+  ],
+  "Noguera (23)": [
+    {
+      "city_name": "Bellcaire d'Urgell",
+      "city_code": 250479
+    },
+    {
+      "city_name": "Cubells",
+      "city_code": 250791
+    },
+    {
+      "city_name": "Vilanova de l'Aguda",
+      "city_code": 252496
+    },
+    {
+      "city_name": "Castelló de Farfanya",
+      "city_code": 250693
+    },
+    {
+      "city_name": "Penelles",
+      "city_code": 251641
+    },
+    {
+      "city_name": "Artesa de Segre",
+      "city_code": 250349
+    },
+    {
+      "city_name": "Camarasa",
+      "city_code": 250621
+    },
+    {
+      "city_name": "Algerri",
+      "city_code": 250156
+    },
+    {
+      "city_name": "Oliola",
+      "city_code": 251500
+    },
+    {
+      "city_name": "Montgai",
+      "city_code": 251386
+    },
+    {
+      "city_name": "Alòs de Balaguer",
+      "city_code": 250220
+    },
+    {
+      "city_name": "Avellanes i Santa Linya, les",
+      "city_code": 250371
+    },
+    {
+      "city_name": "Àger",
+      "city_code": 250024
+    },
+    {
+      "city_name": "Os de Balaguer",
+      "city_code": 251569
+    },
+    {
+      "city_name": "Preixens",
+      "city_code": 251771
+    },
+    {
+      "city_name": "Cabanabona",
+      "city_code": 250609
+    },
+    {
+      "city_name": "Ivars de Noguera",
+      "city_code": 251121
+    },
+    {
+      "city_name": "Baronia de Rialb, la",
+      "city_code": 250426
+    },
+    {
+      "city_name": "Vallfogona de Balaguer",
+      "city_code": 252402
+    },
+    {
+      "city_name": "Torrelameu",
+      "city_code": 252311
+    },
+    {
+      "city_name": "Ponts",
+      "city_code": 251728
+    },
+    {
+      "city_name": "Bellmunt d'Urgell",
+      "city_code": 250498
+    },
+    {
+      "city_name": "Térmens",
+      "city_code": 252206
+    },
+    {
+      "city_name": "Foradada",
+      "city_code": 250946
+    },
+    {
+      "city_name": "Balaguer",
+      "city_code": 250404
+    },
+    {
+      "city_name": "Menàrguens",
+      "city_code": 251348
+    },
+    {
+      "city_name": "Tiurana",
+      "city_code": 252228
+    },
+    {
+      "city_name": "Vilanova de Meià",
+      "city_code": 252509
+    },
+    {
+      "city_name": "Albesa",
+      "city_code": 250083
+    },
+    {
+      "city_name": "Sentiu de Sió, la",
+      "city_code": 250352
+    }
+  ],
+  "Osona (24)": [
+    {
+      "city_name": "Manlleu",
+      "city_code": 81120
+    },
+    {
+      "city_name": "Seva",
+      "city_code": 82690
+    },
+    {
+      "city_name": "Orís",
+      "city_code": 81509
+    },
+    {
+      "city_name": "Muntanyola",
+      "city_code": 81290
+    },
+    {
+      "city_name": "Tona",
+      "city_code": 82830
+    },
+    {
+      "city_name": "Sant Bartomeu del Grau",
+      "city_code": 81995
+    },
+    {
+      "city_name": "Vilanova de Sau",
+      "city_code": 83036
+    },
+    {
+      "city_name": "Tavèrnoles",
+      "city_code": 82750
+    },
+    {
+      "city_name": "Santa Eulàlia de Riuprimer",
+      "city_code": 82476
+    },
+    {
+      "city_name": "Folgueroles",
+      "city_code": 80832
+    },
+    {
+      "city_name": "Malla",
+      "city_code": 81115
+    },
+    {
+      "city_name": "Centelles",
+      "city_code": 80673
+    },
+    {
+      "city_name": "Brull, el",
+      "city_code": 80266
+    },
+    {
+      "city_name": "Rupit i Pruit",
+      "city_code": 89019
+    },
+    {
+      "city_name": "Sant Agustí de Lluçanès",
+      "city_code": 81957
+    },
+    {
+      "city_name": "Sant Pere de Torelló",
+      "city_code": 82331
+    },
+    {
+      "city_name": "Espinelves",
+      "city_code": 170638
+    },
+    {
+      "city_name": "Roda de Ter",
+      "city_code": 81831
+    },
+    {
+      "city_name": "Taradell",
+      "city_code": 82785
+    },
+    {
+      "city_name": "Sant Boi de Lluçanès",
+      "city_code": 82016
+    },
+    {
+      "city_name": "Vidrà",
+      "city_code": 172121
+    },
+    {
+      "city_name": "Torelló",
+      "city_code": 82858
+    },
+    {
+      "city_name": "Calldetenes",
+      "city_code": 80370
+    },
+    {
+      "city_name": "Santa Eugènia de Berga",
+      "city_code": 82460
+    },
+    {
+      "city_name": "Sant Sadurní d'Osormort",
+      "city_code": 82418
+    },
+    {
+      "city_name": "Viladrau",
+      "city_code": 172207
+    },
+    {
+      "city_name": "Esquirol, l'",
+      "city_code": 82541
+    },
+    {
+      "city_name": "Masies de Voltregà, les",
+      "city_code": 81173
+    },
+    {
+      "city_name": "Sant Vicenç de Torelló",
+      "city_code": 82652
+    },
+    {
+      "city_name": "Tavertet",
+      "city_code": 82802
+    },
+    {
+      "city_name": "Sant Hipòlit de Voltregà",
+      "city_code": 82153
+    },
+    {
+      "city_name": "Sant Martí de Centelles",
+      "city_code": 82248
+    },
+    {
+      "city_name": "Vic",
+      "city_code": 82981
+    },
+    {
+      "city_name": "Santa Cecília de Voltregà",
+      "city_code": 82439
+    },
+    {
+      "city_name": "Sora",
+      "city_code": 82726
+    },
+    {
+      "city_name": "Sant Quirze de Besora",
+      "city_code": 82378
+    },
+    {
+      "city_name": "Sant Julià de Vilatorta",
+      "city_code": 82205
+    },
+    {
+      "city_name": "Masies de Roda, les",
+      "city_code": 81167
+    },
+    {
+      "city_name": "Santa Maria de Besora",
+      "city_code": 82536
+    },
+    {
+      "city_name": "Gurb",
+      "city_code": 81000
+    },
+    {
+      "city_name": "Balenyà",
+      "city_code": 80174
+    },
+    {
+      "city_name": "Montesquiu",
+      "city_code": 81311
+    }
+  ],
+  "Pallars Jussà (25)": [
+    {
+      "city_name": "Salàs de Pallars",
+      "city_code": 251902
+    },
+    {
+      "city_name": "Abella de la Conca",
+      "city_code": 250019
+    },
+    {
+      "city_name": "Talarn",
+      "city_code": 252154
+    },
+    {
+      "city_name": "Senterada",
+      "city_code": 252022
+    },
+    {
+      "city_name": "Gavet de la Conca",
+      "city_code": 250984
+    },
+    {
+      "city_name": "Sant Esteve de la Sarga",
+      "city_code": 251961
+    },
+    {
+      "city_name": "Isona i Conca Dellà",
+      "city_code": 251155
+    },
+    {
+      "city_name": "Sarroca de Bellera",
+      "city_code": 252017
+    },
+    {
+      "city_name": "Torre de Cabdella, la",
+      "city_code": 252271
+    },
+    {
+      "city_name": "Castell de Mur",
+      "city_code": 259046
+    },
+    {
+      "city_name": "Llimiana",
+      "city_code": 251288
+    },
+    {
+      "city_name": "Conca de Dalt",
+      "city_code": 251615
+    },
+    {
+      "city_name": "Tremp",
+      "city_code": 252347
+    },
+    {
+      "city_name": "Pobla de Segur, la",
+      "city_code": 251713
+    }
+  ],
+  "Pallars Sobirà (26)": [
+    {
+      "city_name": "Llavorsí",
+      "city_code": 251266
+    },
+    {
+      "city_name": "Tírvia",
+      "city_code": 252213
+    },
+    {
+      "city_name": "Lladorre",
+      "city_code": 251235
+    },
+    {
+      "city_name": "Sort",
+      "city_code": 252094
+    },
+    {
+      "city_name": "Vall de Cardós",
+      "city_code": 259010
+    },
+    {
+      "city_name": "Soriguera",
+      "city_code": 252081
+    },
+    {
+      "city_name": "Alt Àneu",
+      "city_code": 250241
+    },
+    {
+      "city_name": "Esterri de Cardós",
+      "city_code": 250870
+    },
+    {
+      "city_name": "Rialp",
+      "city_code": 251832
+    },
+    {
+      "city_name": "Baix Pallars",
+      "city_code": 250390
+    },
+    {
+      "city_name": "Esterri d'Àneu",
+      "city_code": 250864
+    },
+    {
+      "city_name": "Alins",
+      "city_code": 250175
+    },
+    {
+      "city_name": "Farrera",
+      "city_code": 250899
+    },
+    {
+      "city_name": "Guingueta d'Àneu, la",
+      "city_code": 259031
+    },
+    {
+      "city_name": "Espot",
+      "city_code": 250827
+    }
+  ],
+  "Pla d'Urgell (27)": [
+    {
+      "city_name": "Golmés",
+      "city_code": 250997
+    },
+    {
+      "city_name": "Miralcamp",
+      "city_code": 251351
+    },
+    {
+      "city_name": "Bell-lloc d'Urgell",
+      "city_code": 250485
+    },
+    {
+      "city_name": "Sidamon",
+      "city_code": 252056
+    },
+    {
+      "city_name": "Bellvís",
+      "city_code": 250523
+    },
+    {
+      "city_name": "Palau d'Anglesola, el",
+      "city_code": 251581
+    },
+    {
+      "city_name": "Fondarella",
+      "city_code": 250931
+    },
+    {
+      "city_name": "Vilanova de Bellpuig",
+      "city_code": 252483
+    },
+    {
+      "city_name": "Poal, el",
+      "city_code": 251689
+    },
+    {
+      "city_name": "Mollerussa",
+      "city_code": 251370
+    },
+    {
+      "city_name": "Ivars d'Urgell",
+      "city_code": 251137
+    },
+    {
+      "city_name": "Barbens",
+      "city_code": 250411
+    },
+    {
+      "city_name": "Vila-sana",
+      "city_code": 252521
+    },
+    {
+      "city_name": "Torregrossa",
+      "city_code": 252304
+    },
+    {
+      "city_name": "Linyola",
+      "city_code": 251229
+    },
+    {
+      "city_name": "Castellnou de Seana",
+      "city_code": 250680
+    }
+  ],
+  "Pla de l'Estany (28)": [
+    {
+      "city_name": "Serinyà",
+      "city_code": 171903
+    },
+    {
+      "city_name": "Sant Miquel de Campmajor",
+      "city_code": 171740
+    },
+    {
+      "city_name": "Fontcoberta",
+      "city_code": 170715
+    },
+    {
+      "city_name": "Porqueres",
+      "city_code": 171371
+    },
+    {
+      "city_name": "Banyoles",
+      "city_code": 170157
+    },
+    {
+      "city_name": "Esponellà",
+      "city_code": 170656
+    },
+    {
+      "city_name": "Cornellà del Terri",
+      "city_code": 170561
+    },
+    {
+      "city_name": "Palol de Revardit",
+      "city_code": 171236
+    },
+    {
+      "city_name": "Vilademuls",
+      "city_code": 172180
+    },
+    {
+      "city_name": "Camós",
+      "city_code": 170353
+    },
+    {
+      "city_name": "Crespià",
+      "city_code": 170583
+    }
+  ],
+  "Priorat (29)": [
+    {
+      "city_name": "Torre de Fontaubella, la",
+      "city_code": 431515
+    },
+    {
+      "city_name": "Figuera, la",
+      "city_code": 430580
+    },
+    {
+      "city_name": "Gratallops",
+      "city_code": 430691
+    },
+    {
+      "city_name": "Guiamets, els",
+      "city_code": 430705
+    },
+    {
+      "city_name": "Falset",
+      "city_code": 430555
+    },
+    {
+      "city_name": "Margalef",
+      "city_code": 430751
+    },
+    {
+      "city_name": "Molar, el",
+      "city_code": 430859
+    },
+    {
+      "city_name": "Poboleda",
+      "city_code": 431129
+    },
+    {
+      "city_name": "Cornudella de Montsant",
+      "city_code": 430496
+    },
+    {
+      "city_name": "Lloar, el",
+      "city_code": 430727
+    },
+    {
+      "city_name": "Masroig, el",
+      "city_code": 430825
+    },
+    {
+      "city_name": "Porrera",
+      "city_code": 431140
+    },
+    {
+      "city_name": "Pradell de la Teixeta",
+      "city_code": 431153
+    },
+    {
+      "city_name": "Vilella Baixa, la",
+      "city_code": 431747
+    },
+    {
+      "city_name": "Bellmunt del Priorat",
+      "city_code": 430234
+    },
+    {
+      "city_name": "Ulldemolins",
+      "city_code": 431573
+    },
+    {
+      "city_name": "Cabacés",
+      "city_code": 430350
+    },
+    {
+      "city_name": "Torroja del Priorat",
+      "city_code": 431541
+    },
+    {
+      "city_name": "Bisbal de Falset, la",
+      "city_code": 430271
+    },
+    {
+      "city_name": "Marçà",
+      "city_code": 430764
+    },
+    {
+      "city_name": "Capçanes",
+      "city_code": 430402
+    },
+    {
+      "city_name": "Morera de Montsant, la",
+      "city_code": 430960
+    },
+    {
+      "city_name": "Vilella Alta, la",
+      "city_code": 431732
+    }
+  ],
+  "Ribera d'Ebre (30)": [
+    {
+      "city_name": "Palma d'Ebre, la",
+      "city_code": 430995
+    },
+    {
+      "city_name": "Móra la Nova",
+      "city_code": 430944
+    },
+    {
+      "city_name": "Rasquera",
+      "city_code": 431212
+    },
+    {
+      "city_name": "Flix",
+      "city_code": 430607
+    },
+    {
+      "city_name": "Tivissa",
+      "city_code": 431508
+    },
+    {
+      "city_name": "Torre de l'Espanyol, la",
+      "city_code": 431520
+    },
+    {
+      "city_name": "Garcia",
+      "city_code": 430653
+    },
+    {
+      "city_name": "Ginestar",
+      "city_code": 430672
+    },
+    {
+      "city_name": "Móra d'Ebre",
+      "city_code": 430939
+    },
+    {
+      "city_name": "Ascó",
+      "city_code": 430192
+    },
+    {
+      "city_name": "Vinebre",
+      "city_code": 431779
+    },
+    {
+      "city_name": "Benissanet",
+      "city_code": 430265
+    },
+    {
+      "city_name": "Riba-roja d'Ebre",
+      "city_code": 431251
+    },
+    {
+      "city_name": "Miravet",
+      "city_code": 430846
+    }
+  ],
+  "Ripollès (31)": [
+    {
+      "city_name": "Campelles",
+      "city_code": 170372
+    },
+    {
+      "city_name": "Pardines",
+      "city_code": 171254
+    },
+    {
+      "city_name": "Llanars",
+      "city_code": 170911
+    },
+    {
+      "city_name": "Gombrèn",
+      "city_code": 170806
+    },
+    {
+      "city_name": "Planoles",
+      "city_code": 171349
+    },
+    {
+      "city_name": "Campdevànol",
+      "city_code": 170366
+    },
+    {
+      "city_name": "Vallfogona de Ripollès",
+      "city_code": 171707
+    },
+    {
+      "city_name": "Ogassa",
+      "city_code": 171122
+    },
+    {
+      "city_name": "Camprodon",
+      "city_code": 170391
+    },
+    {
+      "city_name": "Llosses, les",
+      "city_code": 170963
+    },
+    {
+      "city_name": "Sant Pau de Segúries",
+      "city_code": 171772
+    },
+    {
+      "city_name": "Molló",
+      "city_code": 171077
+    },
+    {
+      "city_name": "Queralbs",
+      "city_code": 170433
+    },
+    {
+      "city_name": "Ribes de Freser",
+      "city_code": 171450
+    },
+    {
+      "city_name": "Toses",
+      "city_code": 172018
+    },
+    {
+      "city_name": "Setcases",
+      "city_code": 171925
+    },
+    {
+      "city_name": "Ripoll",
+      "city_code": 171479
+    },
+    {
+      "city_name": "Vilallonga de Ter",
+      "city_code": 172240
+    },
+    {
+      "city_name": "Sant Joan de les Abadesses",
+      "city_code": 171674
+    }
+  ],
+  "Segarra (32)": [
+    {
+      "city_name": "Tarroja de Segarra",
+      "city_code": 252192
+    },
+    {
+      "city_name": "Guissona",
+      "city_code": 251109
+    },
+    {
+      "city_name": "Sant Guim de la Plana",
+      "city_code": 251977
+    },
+    {
+      "city_name": "Sant Ramon",
+      "city_code": 251945
+    },
+    {
+      "city_name": "Ribera d'Ondara",
+      "city_code": 259059
+    },
+    {
+      "city_name": "Cervera",
+      "city_code": 250729
+    },
+    {
+      "city_name": "Torrefeta i Florejacs",
+      "city_code": 259078
+    },
+    {
+      "city_name": "Massoteres",
+      "city_code": 251327
+    },
+    {
+      "city_name": "Sant Guim de Freixenet",
+      "city_code": 251924
+    },
+    {
+      "city_name": "Granyena de Segarra",
+      "city_code": 251044
+    },
+    {
+      "city_name": "Oluges, les",
+      "city_code": 251522
+    },
+    {
+      "city_name": "Plans de Sió, els",
+      "city_code": 259118
+    },
+    {
+      "city_name": "Montornès de Segarra",
+      "city_code": 251431
+    },
+    {
+      "city_name": "Sanaüja",
+      "city_code": 251919
+    },
+    {
+      "city_name": "Granyanella",
+      "city_code": 251039
+    },
+    {
+      "city_name": "Montoliu de Segarra",
+      "city_code": 251410
+    },
+    {
+      "city_name": "Estaràs",
+      "city_code": 250851
+    },
+    {
+      "city_name": "Talavera",
+      "city_code": 252167
+    },
+    {
+      "city_name": "Ivorra",
+      "city_code": 251142
+    }
+  ],
+  "Segrià (33)": [
+    {
+      "city_name": "Artesa de Lleida",
+      "city_code": 250334
+    },
+    {
+      "city_name": "Puigverd de Lleida",
+      "city_code": 251826
+    },
+    {
+      "city_name": "Alamús, els",
+      "city_code": 250045
+    },
+    {
+      "city_name": "Lleida",
+      "city_code": 251207
+    },
+    {
+      "city_name": "Sunyer",
+      "city_code": 252120
+    },
+    {
+      "city_name": "Maials",
+      "city_code": 251333
+    },
+    {
+      "city_name": "Torres de Segre",
+      "city_code": 252326
+    },
+    {
+      "city_name": "Almacelles",
+      "city_code": 250194
+    },
+    {
+      "city_name": "Albatàrrec",
+      "city_code": 250077
+    },
+    {
+      "city_name": "Benavent de Segrià",
+      "city_code": 250539
+    },
+    {
+      "city_name": "Sarroca de Lleida",
+      "city_code": 252000
+    },
+    {
+      "city_name": "Corbins",
+      "city_code": 250788
+    },
+    {
+      "city_name": "Seròs",
+      "city_code": 252043
+    },
+    {
+      "city_name": "Almatret",
+      "city_code": 250208
+    },
+    {
+      "city_name": "Alcanó",
+      "city_code": 250100
+    },
+    {
+      "city_name": "Vilanova de la Barca",
+      "city_code": 252542
+    },
+    {
+      "city_name": "Torre-serona",
+      "city_code": 252332
+    },
+    {
+      "city_name": "Aitona",
+      "city_code": 250387
+    },
+    {
+      "city_name": "Granja d'Escarp, la",
+      "city_code": 251023
+    },
+    {
+      "city_name": "Rosselló",
+      "city_code": 251898
+    },
+    {
+      "city_name": "Vilanova de Segrià",
+      "city_code": 252516
+    },
+    {
+      "city_name": "Alcarràs",
+      "city_code": 250117
+    },
+    {
+      "city_name": "Soses",
+      "city_code": 252108
+    },
+    {
+      "city_name": "Alguaire",
+      "city_code": 250169
+    },
+    {
+      "city_name": "Alpicat",
+      "city_code": 250236
+    },
+    {
+      "city_name": "Torrebesses",
+      "city_code": 252265
+    },
+    {
+      "city_name": "Almenar",
+      "city_code": 250215
+    },
+    {
+      "city_name": "Massalcoreig",
+      "city_code": 251312
+    },
+    {
+      "city_name": "Gimenells i el Pla de la Font",
+      "city_code": 259123
+    },
+    {
+      "city_name": "Montoliu de Lleida",
+      "city_code": 251425
+    },
+    {
+      "city_name": "Portella, la",
+      "city_code": 251749
+    },
+    {
+      "city_name": "Alfés",
+      "city_code": 250143
+    },
+    {
+      "city_name": "Aspa",
+      "city_code": 250365
+    },
+    {
+      "city_name": "Alcoletge",
+      "city_code": 250122
+    },
+    {
+      "city_name": "Llardecans",
+      "city_code": 251253
+    },
+    {
+      "city_name": "Torrefarrera",
+      "city_code": 252287
+    },
+    {
+      "city_name": "Alfarràs",
+      "city_code": 250138
+    },
+    {
+      "city_name": "Sudanell",
+      "city_code": 252115
+    }
+  ],
+  "Selva (34)": [
+    {
+      "city_name": "Santa Coloma de Farners",
+      "city_code": 171805
+    },
+    {
+      "city_name": "Brunyola i Sant Martí Sapresa",
+      "city_code": 170280
+    },
+    {
+      "city_name": "Anglès",
+      "city_code": 170084
+    },
+    {
+      "city_name": "Caldes de Malavella",
+      "city_code": 170335
+    },
+    {
+      "city_name": "Arbúcies",
+      "city_code": 170097
+    },
+    {
+      "city_name": "Riudarenes",
+      "city_code": 171485
+    },
+    {
+      "city_name": "Lloret de Mar",
+      "city_code": 170950
+    },
+    {
+      "city_name": "Tossa de Mar",
+      "city_code": 172023
+    },
+    {
+      "city_name": "Vidreres",
+      "city_code": 172137
+    },
+    {
+      "city_name": "Blanes",
+      "city_code": 170237
+    },
+    {
+      "city_name": "Vilobí d'Onyar",
+      "city_code": 172333
+    },
+    {
+      "city_name": "Sant Feliu de Buixalleu",
+      "city_code": 171595
+    },
+    {
+      "city_name": "Sils",
+      "city_code": 171931
+    },
+    {
+      "city_name": "Osor",
+      "city_code": 171169
+    },
+    {
+      "city_name": "Susqueda",
+      "city_code": 171946
+    },
+    {
+      "city_name": "Sant Julià del Llor i Bonmatí",
+      "city_code": 179032
+    },
+    {
+      "city_name": "Riells i Viabrea",
+      "city_code": 171463
+    },
+    {
+      "city_name": "Riudellots de la Selva",
+      "city_code": 171501
+    },
+    {
+      "city_name": "Maçanet de la Selva",
+      "city_code": 171030
+    },
+    {
+      "city_name": "Breda",
+      "city_code": 170274
+    },
+    {
+      "city_name": "Sant Hilari Sacalm",
+      "city_code": 171642
+    },
+    {
+      "city_name": "Fogars de la Selva",
+      "city_code": 80826
+    },
+    {
+      "city_name": "Hostalric",
+      "city_code": 170834
+    },
+    {
+      "city_name": "Massanes",
+      "city_code": 171019
+    },
+    {
+      "city_name": "Amer",
+      "city_code": 170078
+    },
+    {
+      "city_name": "Cellera de Ter, la",
+      "city_code": 171899
+    }
+  ],
+  "Solsonès (35)": [
+    {
+      "city_name": "Riner",
+      "city_code": 251863
+    },
+    {
+      "city_name": "Guixers",
+      "city_code": 251116
+    },
+    {
+      "city_name": "Clariana de Cardener",
+      "city_code": 250753
+    },
+    {
+      "city_name": "Pinós",
+      "city_code": 251673
+    },
+    {
+      "city_name": "Biosca",
+      "city_code": 250557
+    },
+    {
+      "city_name": "Pinell de Solsonès",
+      "city_code": 251667
+    },
+    {
+      "city_name": "Molsosa, la",
+      "city_code": 251364
+    },
+    {
+      "city_name": "Lladurs",
+      "city_code": 251240
+    },
+    {
+      "city_name": "Olius",
+      "city_code": 251517
+    },
+    {
+      "city_name": "Llobera",
+      "city_code": 251291
+    },
+    {
+      "city_name": "Coma i la Pedra, la",
+      "city_code": 251636
+    },
+    {
+      "city_name": "Sant Llorenç de Morunys",
+      "city_code": 251930
+    },
+    {
+      "city_name": "Navès",
+      "city_code": 251462
+    },
+    {
+      "city_name": "Solsona",
+      "city_code": 252075
+    },
+    {
+      "city_name": "Castellar de la Ribera",
+      "city_code": 250642
+    },
+    {
+      "city_name": "Torà",
+      "city_code": 252234
+    },
+    {
+      "city_name": "Odèn",
+      "city_code": 251484
+    }
+  ],
+  "Tarragonès (36)": [
+    {
+      "city_name": "Vilallonga del Camp",
+      "city_code": 431665
+    },
+    {
+      "city_name": "Vila-seca",
+      "city_code": 431711
+    },
+    {
+      "city_name": "Pobla de Montornès, la",
+      "city_code": 431114
+    },
+    {
+      "city_name": "Altafulla",
+      "city_code": 430120
+    },
+    {
+      "city_name": "Creixell",
+      "city_code": 430509
+    },
+    {
+      "city_name": "Tarragona",
+      "city_code": 431482
+    },
+    {
+      "city_name": "Catllar, el",
+      "city_code": 430430
+    },
+    {
+      "city_name": "Nou de Gaià, la",
+      "city_code": 430976
+    },
+    {
+      "city_name": "Salou",
+      "city_code": 439057
+    },
+    {
+      "city_name": "Perafort",
+      "city_code": 431037
+    },
+    {
+      "city_name": "Constantí",
+      "city_code": 430477
+    },
+    {
+      "city_name": "Riera de Gaià, la",
+      "city_code": 431264
+    },
+    {
+      "city_name": "Salomó",
+      "city_code": 431359
+    },
+    {
+      "city_name": "Renau",
+      "city_code": 431227
+    },
+    {
+      "city_name": "Pallaresos, els",
+      "city_code": 431009
+    },
+    {
+      "city_name": "Secuita, la",
+      "city_code": 431444
+    },
+    {
+      "city_name": "Morell, el",
+      "city_code": 430957
+    },
+    {
+      "city_name": "Pobla de Mafumet, la",
+      "city_code": 431093
+    },
+    {
+      "city_name": "Canonja, la",
+      "city_code": 439076
+    },
+    {
+      "city_name": "Roda de Berà",
+      "city_code": 431310
+    },
+    {
+      "city_name": "Torredembarra",
+      "city_code": 431536
+    },
+    {
+      "city_name": "Vespella de Gaià",
+      "city_code": 431649
+    }
+  ],
+  "Terra Alta (37)": [
+    {
+      "city_name": "Corbera d'Ebre",
+      "city_code": 430483
+    },
+    {
+      "city_name": "Gandesa",
+      "city_code": 430640
+    },
+    {
+      "city_name": "Vilalba dels Arcs",
+      "city_code": 431750
+    },
+    {
+      "city_name": "Arnes",
+      "city_code": 430189
+    },
+    {
+      "city_name": "Pobla de Massaluca, la",
+      "city_code": 431107
+    },
+    {
+      "city_name": "Prat de Comte",
+      "city_code": 431172
+    },
+    {
+      "city_name": "Bot",
+      "city_code": 430326
+    },
+    {
+      "city_name": "Horta de Sant Joan",
+      "city_code": 430712
+    },
+    {
+      "city_name": "Pinell de Brai, el",
+      "city_code": 431068
+    },
+    {
+      "city_name": "Caseres",
+      "city_code": 430419
+    },
+    {
+      "city_name": "Batea",
+      "city_code": 430228
+    },
+    {
+      "city_name": "Fatarella, la",
+      "city_code": 430568
+    }
+  ],
+  "Urgell (38)": [
+    {
+      "city_name": "Sant Martí de Riucorb",
+      "city_code": 259025
+    },
+    {
+      "city_name": "Bellpuig",
+      "city_code": 250501
+    },
+    {
+      "city_name": "Anglesola",
+      "city_code": 250273
+    },
+    {
+      "city_name": "Verdú",
+      "city_code": 252424
+    },
+    {
+      "city_name": "Fuliola, la",
+      "city_code": 250962
+    },
+    {
+      "city_name": "Tornabous",
+      "city_code": 252252
+    },
+    {
+      "city_name": "Guimerà",
+      "city_code": 251095
+    },
+    {
+      "city_name": "Belianes",
+      "city_code": 250463
+    },
+    {
+      "city_name": "Nalec",
+      "city_code": 251459
+    },
+    {
+      "city_name": "Agramunt",
+      "city_code": 250030
+    },
+    {
+      "city_name": "Preixana",
+      "city_code": 251765
+    },
+    {
+      "city_name": "Vilagrassa",
+      "city_code": 252445
+    },
+    {
+      "city_name": "Ossó de Sió",
+      "city_code": 251575
+    },
+    {
+      "city_name": "Maldà",
+      "city_code": 251305
+    },
+    {
+      "city_name": "Vallbona de les Monges",
+      "city_code": 252385
+    },
+    {
+      "city_name": "Tàrrega",
+      "city_code": 252173
+    },
+    {
+      "city_name": "Puigverd d'Agramunt",
+      "city_code": 251811
+    },
+    {
+      "city_name": "Omells de na Gaia, els",
+      "city_code": 251543
+    },
+    {
+      "city_name": "Castellserà",
+      "city_code": 250707
+    },
+    {
+      "city_name": "Ciutadilla",
+      "city_code": 250740
+    }
+  ],
+  "Vallès Occidental (40)": [
+    {
+      "city_name": "Santa Perpètua de Mogoda",
+      "city_code": 82606
+    },
+    {
+      "city_name": "Viladecavalls",
+      "city_code": 83008
+    },
+    {
+      "city_name": "Barberà del Vallès",
+      "city_code": 82520
+    },
+    {
+      "city_name": "Matadepera",
+      "city_code": 81206
+    },
+    {
+      "city_name": "Terrassa",
+      "city_code": 82798
+    },
+    {
+      "city_name": "Ullastrell",
+      "city_code": 82900
+    },
+    {
+      "city_name": "Palau-solità i Plegamans",
+      "city_code": 81568
+    },
+    {
+      "city_name": "Polinyà",
+      "city_code": 81672
+    },
+    {
+      "city_name": "Montcada i Reixac",
+      "city_code": 81252
+    },
+    {
+      "city_name": "Vacarisses",
+      "city_code": 82917
+    },
+    {
+      "city_name": "Ripollet",
+      "city_code": 81803
+    },
+    {
+      "city_name": "Castellar del Vallès",
+      "city_code": 80517
+    },
+    {
+      "city_name": "Rellinars",
+      "city_code": 81799
+    },
+    {
+      "city_name": "Cerdanyola del Vallès",
+      "city_code": 82665
+    },
+    {
+      "city_name": "Sentmenat",
+      "city_code": 82671
+    },
+    {
+      "city_name": "Sant Llorenç Savall",
+      "city_code": 82233
+    },
+    {
+      "city_name": "Sabadell",
+      "city_code": 81878
+    },
+    {
+      "city_name": "Sant Cugat del Vallès",
+      "city_code": 82055
+    },
+    {
+      "city_name": "Gallifa",
+      "city_code": 80879
+    },
+    {
+      "city_name": "Badia del Vallès",
+      "city_code": 89045
+    },
+    {
+      "city_name": "Sant Quirze del Vallès",
+      "city_code": 82384
+    },
+    {
+      "city_name": "Castellbisbal",
+      "city_code": 80543
+    },
+    {
+      "city_name": "Rubí",
+      "city_code": 81846
+    }
+  ],
+  "Vallès Oriental (41)": [
+    {
+      "city_name": "Santa Eulàlia de Ronçana",
+      "city_code": 82482
+    },
+    {
+      "city_name": "Granollers",
+      "city_code": 80961
+    },
+    {
+      "city_name": "Sant Esteve de Palautordera",
+      "city_code": 82074
+    },
+    {
+      "city_name": "Lliçà de Vall",
+      "city_code": 81081
+    },
+    {
+      "city_name": "Santa Maria de Palautordera",
+      "city_code": 82592
+    },
+    {
+      "city_name": "Cànoves i Samalús",
+      "city_code": 80425
+    },
+    {
+      "city_name": "Mollet del Vallès",
+      "city_code": 81249
+    },
+    {
+      "city_name": "Aiguafreda",
+      "city_code": 80142
+    },
+    {
+      "city_name": "Bigues i Riells del Fai",
+      "city_code": 80235
+    },
+    {
+      "city_name": "Roca del Vallès, la",
+      "city_code": 81810
+    },
+    {
+      "city_name": "Figaró-Montmany",
+      "city_code": 81347
+    },
+    {
+      "city_name": "Lliçà d'Amunt",
+      "city_code": 81075
+    },
+    {
+      "city_name": "Santa Maria de Martorelles",
+      "city_code": 82567
+    },
+    {
+      "city_name": "Sant Fost de Campsentelles",
+      "city_code": 82093
+    },
+    {
+      "city_name": "Vilalba Sasserra",
+      "city_code": 83067
+    },
+    {
+      "city_name": "Vallromanes",
+      "city_code": 82969
+    },
+    {
+      "city_name": "Llinars del Vallès",
+      "city_code": 81069
+    },
+    {
+      "city_name": "Ametlla del Vallès, l'",
+      "city_code": 80057
+    },
+    {
+      "city_name": "Montornès del Vallès",
+      "city_code": 81363
+    },
+    {
+      "city_name": "Cardedeu",
+      "city_code": 80462
+    },
+    {
+      "city_name": "Gualba",
+      "city_code": 80977
+    },
+    {
+      "city_name": "Montmeló",
+      "city_code": 81350
+    },
+    {
+      "city_name": "Sant Pere de Vilamajor",
+      "city_code": 82346
+    },
+    {
+      "city_name": "Fogars de Montclús",
+      "city_code": 80811
+    },
+    {
+      "city_name": "Martorelles",
+      "city_code": 81154
+    },
+    {
+      "city_name": "Sant Feliu de Codines",
+      "city_code": 82107
+    },
+    {
+      "city_name": "Montseny",
+      "city_code": 81379
+    },
+    {
+      "city_name": "Garriga, la",
+      "city_code": 80885
+    },
+    {
+      "city_name": "Caldes de Montbui",
+      "city_code": 80333
+    },
+    {
+      "city_name": "Campins",
+      "city_code": 80399
+    },
+    {
+      "city_name": "Llagosta, la",
+      "city_code": 81056
+    },
+    {
+      "city_name": "Tagamanent",
+      "city_code": 82763
+    },
+    {
+      "city_name": "Sant Celoni",
+      "city_code": 82021
+    },
+    {
+      "city_name": "Parets del Vallès",
+      "city_code": 81593
+    },
+    {
+      "city_name": "Canovelles",
+      "city_code": 80410
+    },
+    {
+      "city_name": "Vallgorguina",
+      "city_code": 82943
+    },
+    {
+      "city_name": "Vilanova del Vallès",
+      "city_code": 89024
+    },
+    {
+      "city_name": "Franqueses del Vallès, les",
+      "city_code": 80863
+    },
+    {
+      "city_name": "Sant Antoni de Vilamajor",
+      "city_code": 81982
+    }
+  ]
+}
